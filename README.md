@@ -1,4 +1,3 @@
 # demo
-# git_practice
-# warm-up
-# warm-up
+# practice for branching and merging
+
